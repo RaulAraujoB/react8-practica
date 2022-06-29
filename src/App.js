@@ -23,9 +23,13 @@ function App() {
         Grupo8
         </a>
       </header>
-    </div>
 
+      <div>Footer</div>
+
+    </div>
+    
     </>
+    
   );
  }
 

@@ -51,7 +51,7 @@ const NavContainer = styled.nav`
     margin-right: 1rem;
   }
   .links{
-    position: absolute;
+    position: relative;
     top: -700px;
     left: -2000px;
     right: 0;
@@ -59,6 +59,8 @@ const NavContainer = styled.nav`
     margin-right: auto;
     text-align: center;
     transition: all .5s ease;
+    opacity:0.5;
+    z
     a{
       color: white;
       font-size: 2rem;
