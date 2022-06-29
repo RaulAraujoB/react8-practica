@@ -12,7 +12,7 @@ function Navbar() {
   return (
     <>
       <NavContainer>
-        <h2>Practica<span> React</span></h2>
+        <h2>React<span> Raul Araujo</span></h2>
         <div className={`links ${clicked ? 'active' : ''}`}>
           <a onClick={handleClick} href="#h">Inicio</a>
           <a onClick={handleClick} href="#h">Link</a>
