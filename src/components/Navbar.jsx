@@ -60,7 +60,6 @@ const NavContainer = styled.nav`
     text-align: center;
     transition: all .5s ease;
     opacity:0.5;
-    z
     a{
       color: white;
       font-size: 2rem;
